@@ -15,6 +15,7 @@ Then:
 cd path/to/guided-diffusion
 pip install -e .
 ```
+**Doing all the train of the model under the file of improved diffusion and all the sampling with classifier guidance under guided diffusion file**.
 
 Modules of the classifier guidance has been  added on improved diffusion and classifier_sample.py  has load the modules from improved diffusion. Follow the instructions from [ImprovedDiffusion_based_GuidedDiffusion/guided-diffusion at main · opoopop/ImprovedDiffusion_based_GuidedDiffusion](https://github.com/opoopop/ImprovedDiffusion_based_GuidedDiffusion/tree/main/guided-diffusion) to sample the image. 
 
