@@ -7,7 +7,7 @@ Classifier guidance with improved diffusion model.
 cd path/to/improved_diffusion
 ```
 
-Then follow the instructions of [Editing ImprovedDiffusion_based_GuidedDiffusion/improved_diffusion/README.md at main · opoopop/ImprovedDiffusion_based_GuidedDiffusion](https://github.com/opoopop/ImprovedDiffusion_based_GuidedDiffusion/edit/main/improved_diffusion/README.md), including the preparation of the dataset, training and sampling, pre-trained models.
+Then follow the instructions of https://github.com/opoopop/ImprovedDiffusion_based_GuidedDiffusion/tree/main/improved_diffusion , including the preparation of the dataset, training and sampling, pre-trained models.
 
 Then:
 
